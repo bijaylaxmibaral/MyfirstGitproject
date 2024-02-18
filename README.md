@@ -1,2 +1,3 @@
 # MyfirstGitproject
-This is for practise
+This is for practice
+Author - Bijaylaxmi Baral
